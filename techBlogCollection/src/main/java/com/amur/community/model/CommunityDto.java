@@ -10,7 +10,7 @@ import lombok.ToString;
 @Getter
 @Setter
 public class CommunityDto {
-    private int board_Id;
+    private int boardId;
     private String title;
     private String memberId;
     private String content;

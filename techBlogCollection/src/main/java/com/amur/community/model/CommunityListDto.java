@@ -1,5 +1,6 @@
 package com.amur.community.model;
 
+import com.amur.community.model.CommunityDto;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
